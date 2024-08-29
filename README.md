@@ -38,6 +38,18 @@ step 8: end
 
 
 ## Program:
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
