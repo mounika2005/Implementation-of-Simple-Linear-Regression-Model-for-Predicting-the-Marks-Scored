@@ -1,23 +1,11 @@
-## Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
-
-
-
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-
-
-
-
-
-
-
 
 ## Algorithm
 step 1:start
@@ -28,46 +16,22 @@ step 3:Set variables for assigning dataset values.
 
 step 4:Import linear regression from sklearn.
 
-step 5: Assign the points for representing in the graph.
+step 5:Assign the points for representing in the graph.
 
-step 6: Predict the regression for marks by using the representation of the graph.
+step 6:Predict the regression for marks by using the representation of the graph.
 
-step 7: Compare the graphs and hence we obtained the linear regression for the given datas.
+step 7:Compare the graphs and hence we obtained the linear regression for the given datas.
 
-step 8: end 
-
-
-
-
-
-
-
-
-
-
-
-
-
+step 8:
 
 ## Program:
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: levaku lakshmi mounika
-RegisterNumber: 212223100026 
+RegisterNumber: 212223040081  
 */
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -110,15 +74,8 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
+
 ```
-
-
-
-
-
-
-
-
 ## Output:
 ## DataSet:
 ![image](https://github.com/user-attachments/assets/5ff33b39-210d-4766-b3aa-5e3473dff374)
