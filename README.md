@@ -7,6 +7,16 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
+
+
+
+
+
+
+
+
+
+
 ## Algorithm
 step 1:start
 
@@ -23,6 +33,15 @@ step 6:Predict the regression for marks by using the representation of the graph
 step 7:Compare the graphs and hence we obtained the linear regression for the given datas.
 
 step 8:
+
+
+
+
+
+
+
+
+
 
 ## Program:
 ```
@@ -74,8 +93,15 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-
 ```
+
+
+
+
+
+
+
+
 ## Output:
 ## DataSet:
 ![image](https://github.com/user-attachments/assets/5ff33b39-210d-4766-b3aa-5e3473dff374)
@@ -92,6 +118,33 @@ print("RMSE= ",rmse)
 ## Training Set:
 ![image](https://github.com/user-attachments/assets/eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0)
 ![image](https://github.com/user-attachments/assets/185ead62-081f-4570-a47f-1ab80015077e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
