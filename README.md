@@ -29,7 +29,7 @@ step 8:
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: levaku lakshmi mounika
-RegisterNumber: 212223040081  
+RegisterNumber: 212223100026  
 */
 
 import pandas as pd
