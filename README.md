@@ -3,6 +3,18 @@
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
@@ -17,7 +29,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 
 
+
+
+
 ## Algorithm
+
 step 1:start
 
 step 2:Import the standard Libraries.
@@ -50,7 +66,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: levaku lakshmi mounika
 RegisterNumber: 212223100026  
 */
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -115,9 +130,17 @@ print("RMSE= ",rmse)
 ![image](https://github.com/user-attachments/assets/66cb9040-9730-4a70-ac94-21303b0d9e78)
 ## MSE, MAE and RMSE:
 ![image](https://github.com/user-attachments/assets/bc9e53aa-29ae-463c-a750-7ebc8c12592a)
+
+
+
 ## Training Set:
+
+
 ![image](https://github.com/user-attachments/assets/eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0)
 ![image](https://github.com/user-attachments/assets/185ead62-081f-4570-a47f-1ab80015077e)
+
+
+
 
 
 
